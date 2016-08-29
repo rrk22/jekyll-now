@@ -3,34 +3,24 @@ layout: post
 title: First Post
 ---
 
-**The Road so Far**  
-This has been a long and arduous process for me with several more steps ahead. The genesis of the idea for this service was easy; it came suddenly and was intuitive.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Building the roadmap for launch took a little more time and effort but was undemanding. The more difficult part lies in refining core strategy and messaging along with hitting the road (e.g. pavement, meetings, telephone, internet) and spreading it to potential champions.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One day, this blog will be used as the official, online home of The Follow Through, but until then I will document my journey towards launch so you can follow along with me.
-
-
 **What did you do this past week?**;
-
-
-
-hi
-
-
-hi
+This past week I found myself sitting in a class (an upper-division, one of many, needed for graduation) and it was great.
+Within the class we learned about a known feature called import in java, and it was interesteing to see the how its equivalent
+was not actually include but actually using namespace. This fact along with many others, helped me begin to understand the
+differences between C++ and Java, both with syntax in code as well as what goes in during compilation and runtime.
 
 
 **What's in your way?**
-hi
-hi
+With the professor, I found the class very organized, but in fact almost too organized and quite unsure if I will be unable to manage
+the schoolwork required along with my other classes. Professor Downing's OOP class required strict discipline in answering quiz questions,
+doing project that take roughly 3 hours of studying per week and roughly 20 hours of coding per week. However, I am very passionate about
+this course and my major as a whole, and as long as I am attentive both in and outside the classroom, I should be fine.
+
 
 **What will you do next week?**
-hi
-hi
+Next week I will be preparing for next week's set of quizzes as well as begin work on project 1. After 2 days in the OOP course I am beginning
+to have a general idea of what to expect in the class.
+
 
 **tip-of-the-week**
-hi
-hi
-
-  
-Sincerely,  
-Daniel Pollitt
+As the quizzes each day are based off of material in the previous class, it is best to study for these quizzes the same day that the material is learned.
