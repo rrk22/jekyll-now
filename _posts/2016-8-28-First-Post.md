@@ -15,11 +15,19 @@ differences between C++ and Java, both with syntax in code as well as what goes 
 **What's in your way?**
 
 
-With the professor, I found the class very organized, but in fact almost too organized and quite unsure if I will be unable to manage
-the schoolwork required along with my other classes. Professor Downing's OOP class required strict discipline in answering quiz questions,
+I found that in fact the class was almost too organized and I am kind of unsure if I will be unable to manage
+the schoolwork required along with my other classes. Professor Downing's OOP class requires strict discipline in answering quiz questions,
 doing project that take roughly 3 hours of studying per week and roughly 20 hours of coding per week. However, I am very passionate about
 this course and my major as a whole, and as long as I am attentive both in and outside the classroom, I should be fine.
 
+
+**Experience in class**
+
+
+My experience in the class was a rather unique and great one. It is interesting to see how keen Professor Downing is on students in the class
+being interactive with the course though randomly selected students answering questions, as well as with each other by incentivizing the class
+to work on projects together and not allowing the same partner more than once. I have a feeling that teaching methods like these will make me
+a better programmer and a better person in the long run.
 
 **What will you do next week?**
 
