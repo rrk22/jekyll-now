@@ -9,8 +9,13 @@ This has been a long and arduous process for me with several more steps ahead. T
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One day, this blog will be used as the official, online home of The Follow Through, but until then I will document my journey towards launch so you can follow along with me.
 
 
-**What did you do this past week?**
+**What did you do this past week?**;
+
+
+
 hi
+
+
 hi
 
 
